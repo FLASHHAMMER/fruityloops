@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fruity Loops</string>
+    <string name="welcome">¡Bienvenidos!</string>
+    <string name="start">Entrar</string>
+    <string name="textlogin">Ingresa tu usuario o e-mail</string>
+    <string name="textpassword">Ingresa tu contraseña</string>
+    <string name="hintpassword">contraseña</string>
+    <string name="hintlogin">usuario o e-mail</string>
+</resources>
